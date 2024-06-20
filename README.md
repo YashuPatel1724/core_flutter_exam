@@ -1,16 +1,21 @@
-# core_flutter_exam
+<h1 align="center">👉 Student Page 👈</h1>
 
-A new Flutter project.
+<h3 align="center">Student Page Video </h3>
+<div align="center">
+ <video src="https://github.com/YashuPatel1724/core_flutter_exam/assets/148859965/b167552a-85f1-4ab1-8b60-aacffbc5fa3d"> 
+</video>
+</div>
 
-## Getting Started
+<h3 align="center">1. Student Page </h3>
 
-This project is a starting point for a Flutter application.
+<h1 align="left"></h1>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center">
+  <img height="550"  src="https://github.com/YashuPatel1724/core_flutter_exam/assets/148859965/62b62506-1be0-4fde-8733-733982851bb0" />
+  <img height="550"  src="https://github.com/YashuPatel1724/core_flutter_exam/assets/148859965/ecad9cbb-ce9d-4fa6-b835-61616e560827" />
+   <img height="550"  src="https://github.com/YashuPatel1724/core_flutter_exam/assets/148859965/63f2694d-d25c-4e47-bcc5-09aaeb54fbec" />
+   <img height="550"  src="https://github.com/YashuPatel1724/core_flutter_exam/assets/148859965/a88d4a74-7196-4704-a63b-b00e45146371" />
+</div>
+<div align="center">
+<a href="https://github.com/YashuPatel1724/core_flutter_exam/tree/master/lib">-> 📂 Go To Dart File 📂 <-</a>
+</div>
